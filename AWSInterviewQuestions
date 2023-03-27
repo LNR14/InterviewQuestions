@@ -1,1 +1,14 @@
-AWS Interview Questions
+#AWS Interview Questions
+##s3,Lambda,API gateway, route 53, SQS, SNS, CDK 
+
+
+###**S3**
+
+*** 1. What do you know about AWS S3 ***
+
+* It is a virtual drive where we are able to store data and use it for scalability on a massive scale. 
+* With Amazon's S3, we are able to get proper access to, hold, or get higher records from any web application. 
+* Unlimited records or the gadgets' size–we are able to hold as masses as 5TBs of records and now not the usage of an issue.
+* S3 isn't always the most effective scalable but moreover high-tempo along with a minimum charge in Evaluation of web services that are really really famous. 
+
+
